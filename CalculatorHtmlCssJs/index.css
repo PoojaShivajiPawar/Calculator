@@ -1,0 +1,52 @@
+html, body{
+height: 100%;
+width: 100%;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+
+.button{
+    padding: 23px;
+    width: 66px;
+    margin: 0px 3px;
+    border: 2px solid none;
+    border-radius: 15px;
+    cursor: pointer;
+    color: white;
+    font-size: large;
+    background-color: rgb(75, 45, 32);
+}
+
+
+.text-center{
+    text-align: center;
+}
+
+
+.flex {
+    display: flex;
+}
+
+
+.flex-col{
+flex-direction: column;
+}
+
+.items-center{
+    align-items: center;
+}
+
+.input{
+    padding: 45px;
+    height: 1px;
+    width: 200px;
+    border: 2px solid yellow;
+    border-radius: 9px;
+    color: white;
+    background-color: rgb(7, 90, 121);
+}
+.row{
+    margin: 8px;
+  
+}
